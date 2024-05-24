@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, there 👋
+
+## name
+Hibiki Kawahashi
+
+## belonging
+2022-04 ~ : Kyushu Institute of Technology🇯🇵
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki1023k&layout=compact&show_icons=true&theme=onedark" />
