@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang esp. Gin, Backend Framework**
 
-- 📝 I regularly write articles on [https://zenn.dev/hibiki1023k , or https://hibiki1023k.hatenablog.com/](https://zenn.dev/hibiki1023k , or https://hibiki1023k.hatenablog.com/)
+- 📝 I regularly write articles on [https://zenn.dev/hibiki1023k](https://zenn.dev/hibiki1023k), or [https://hibiki1023k.hatenablog.com/](https://hibiki1023k.hatenablog.com/)
 
 - 📫 How to reach me **Below SNS Link**
 
