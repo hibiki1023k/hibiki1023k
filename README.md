@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hibi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hibi_dev" height="30" width="40" /></a>
-<a href="https://fb.com/川橋 響生" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="川橋 響生" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61552600957604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="川橋 響生" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hibiki1023k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hibiki1023k" height="30" width="40" /></a>
 </p>
 
